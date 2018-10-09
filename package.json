@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -o rstorm"
+    "deploy": "gh-pages -d build -o origin"
   },
   "eslintConfig": {
     "extends": "react-app"
