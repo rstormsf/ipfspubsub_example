@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/ipfspubsub_example/static/js/runtime~main.194333ef.js"
   },
   {
-    "revision": "6080a82b4ff6d1771a83",
-    "url": "/ipfspubsub_example/static/js/main.6080a82b.chunk.js"
+    "revision": "7600e8958548fca8eea3",
+    "url": "/ipfspubsub_example/static/js/main.7600e895.chunk.js"
   },
   {
     "revision": "7a589f23b264852c493f",
     "url": "/ipfspubsub_example/static/js/1.7a589f23.chunk.js"
   },
   {
-    "revision": "6080a82b4ff6d1771a83",
+    "revision": "7600e8958548fca8eea3",
     "url": "/ipfspubsub_example/static/css/main.ac6e1465.chunk.css"
   },
   {
-    "revision": "6c170fd86352d00d41ac2d740e8a93c2",
+    "revision": "0eafbd70b0dc216c83893435895c70d8",
     "url": "/ipfspubsub_example/index.html"
   }
 ];
