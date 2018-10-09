@@ -1,7 +1,7 @@
 {
-  "name": "ipfspubsub",
+  "name": "ipfspubsub_example",
   "version": "0.1.0",
-  "homepage": "https://rstormsf.github.io/ipfspubsub",
+  "homepage": "https://rstormsf.github.io/ipfspubsub_example",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
